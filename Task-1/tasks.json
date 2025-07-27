@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Coding",
+        "completed": true
+    },
+    {
+        "title": "coding",
+        "completed": false
+    },
+    {
+        "title": "bathing",
+        "completed": false
+    },
+    {
+        "title": "washing",
+        "completed": false
+    }
+]
